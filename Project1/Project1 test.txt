@@ -1,0 +1,8 @@
+record 1
+(student number)       1234567
+(Tuition owed)            10000
+(Student Name)          Smith, Donald
+record 2
+(student number)       1234578
+(Tuition owed)            19000
+(Student Name)          Johnson, Herman
